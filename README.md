@@ -21,4 +21,9 @@ This script makes a copy of the file you enter in the prompt.
 ## 6. function_to_log.sh
 A logger script that logs a message you input.
 
+## 7. while.sh
+A while loop.
+
+## 8. read.sh
+Reads Shakespeare's Sonnet 116 line by line.
 
