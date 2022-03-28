@@ -2,7 +2,7 @@
 # loggs a message using the logger command
 # includes a tag loggr_script
 # use it like so:
-# loggr facility severity message
+# logr facility severity message
 
 read -p "Enter the facility (kern, user, etc): " FAC
 read -p "Enter the severity (debug, info, etc): " SEV
