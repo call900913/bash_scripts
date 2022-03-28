@@ -1,4 +1,5 @@
 #!/bin/bash
+# This script checks whether a host is reachable.
 
 echo "Enter the hostname in this format: example.com, github.com, etc"
 read -p "Enter the hostname you want to ping: " HOST
